@@ -26,7 +26,7 @@ This platform streamlines communication between administrators, teachers, and st
 
 Before you begin, ensure you have **Python** and **Django** installed on your system.
 
-1. *Clone the Repository:* `git clone https://github.com/ursmaheshj/Student_Management.git`
+1. *Clone the Repository:* `git clone https://github.com/jhanveeverma29/Student_Management.git`
 2. *Navigate to the Root Directory:* Ensure you are inside the `Student_Management` folder before running the following commands.
 3. *Set Up Virtual Environment (Optional but Recommended):* Create and activate a virtual environment using `venv` or `virtualenv`.
 4. *Install Dependencies:* `pip install -r requirements.txt`
